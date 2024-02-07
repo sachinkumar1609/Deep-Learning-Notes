@@ -3,4 +3,4 @@
 
 |Daywise| Blog |
 |-|-|
-|Day1 ( Machine Learning (ML) vs Deep Learning (DL) )| [Explanation Link](https://x.com/Sachintukumar/status/1755284231515967579?s=20)
+|Day1 ( Machine Learning vs Deep Learning )| [Explanation Link](https://x.com/Sachintukumar/status/1755284231515967579?s=20)
