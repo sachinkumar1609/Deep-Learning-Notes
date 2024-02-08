@@ -4,3 +4,4 @@
 |Daywise| Blog |
 |-|-|
 |Day1 ( Machine Learning vs Deep Learning )| [Explanation Link](https://x.com/Sachintukumar/status/1755284231515967579?s=20)
+|Day2 ( Types of Neural Network  )| [Explanation Link](https://x.com/Sachintukumar/status/1755659435073302958?s=20)
