@@ -7,3 +7,5 @@
 |Day2 ( Types of Neural Network  )| [Explanation Link](https://x.com/Sachintukumar/status/1755659435073302958?s=20)
 |Day3 ( What is Perceptron & Perceptron vs Neuron )| [Explanation Link](https://x.com/Sachintukumar/status/1756340578697281716?s=20) 
 |Day4 ( Perceptron Trick )| [Explanation Link](https://x.com/Sachintukumar/status/1756649343933911406?s=20) 
+|Day4 ( |Day4 ( Perceptron Trick )| [Explanation Link](https://x.com/Sachintukumar/status/1756649343933911406?s=20) 
+ )| [Explanation Link](https://x.com/Sachintukumar/status/1756649343933911406?s=20) 
