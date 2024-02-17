@@ -9,3 +9,4 @@
 |Day4 ( Perceptron Trick )| [Explanation Link](https://x.com/Sachintukumar/status/1756649343933911406?s=20) 
 |Day5 ( Perceptron Loss Function & It's Limitation )| [Explanation Link](https://x.com/Sachintukumar/status/1758208993372356994?s=20) 
 |Day6 ( Multilayer Perceptrons  )| [Explanation Link](https://x.com/Sachintukumar/status/1758734882896068729?s=20)
+|Day7 ( orward Propagation )| [Explanation Link](https://x.com/Sachintukumar/status/1758897570263470362?s=20)
