@@ -14,5 +14,5 @@
 |Day9 ( Handwritten-Digit-Classification using ANN  )| [Explanation Link](https://x.com/Sachintukumar/status/1760002907221655872?s=20)
 |Day10 ( Admission Prediction using ANN  )| [Explanation Link](https://x.com/Sachintukumar/status/1760350716898812318?s=20)
 |Day11 ( Loss Function   )| [Explanation Link](https://x.com/Sachintukumar/status/1760715405730173270?s=20)
-|Day11 ( Loss Function   )| [Explanation Link](https://x.com/Sachintukumar/status/1760715405730173270?s=20)
+|Day11 ( BackPropagation   )| [Explanation Link](https://x.com/Sachintukumar/status/1762894827195392087?s=20)
 |Day13 ( Multilayer Perceptron Memoization   )| [Explanation Link](https://x.com/Sachintukumar/status/1763253513835221425?s=20)
