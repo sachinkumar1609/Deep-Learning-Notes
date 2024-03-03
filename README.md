@@ -16,3 +16,5 @@
 |Day11 ( Loss Function   )| [Explanation Link](https://x.com/Sachintukumar/status/1760715405730173270?s=20)
 |Day12 ( BackPropagation   )| [Explanation Link](https://x.com/Sachintukumar/status/1762894827195392087?s=20)
 |Day13 ( Multilayer Perceptron Memoization   )| [Explanation Link](https://x.com/Sachintukumar/status/1763253513835221425?s=20)
+|Day14 (  Gradient Descent & Vectorization  )| [Explanation Link](https://x.com/Sachintukumar/status/1763897818257985934?s=20)
+|Day15 ( Vanishing & Exploding Gradient Problem )| [Explanation Link](https://x.com/Sachintukumar/status/1764182164504187117?s=20)
