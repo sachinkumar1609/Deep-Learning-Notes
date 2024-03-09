@@ -18,3 +18,7 @@
 |Day13 ( Multilayer Perceptron Memoization   )| [Explanation Link](https://x.com/Sachintukumar/status/1763253513835221425?s=20)
 |Day14 (  Gradient Descent & Vectorization  )| [Explanation Link](https://x.com/Sachintukumar/status/1763897818257985934?s=20)
 |Day15 ( Vanishing & Exploding Gradient Problem )| [Explanation Link](https://x.com/Sachintukumar/status/1764182164504187117?s=20)
+|Day16 ( Early Stopping in Neural Network )| [Explanation Link](https://x.com/Sachintukumar/status/1764678995361268047?s=20)
+|Day17 ( Data Scaling in Neural Network )| [Explanation Link](https://x.com/Sachintukumar/status/1765066624820977951?s=20)
+|Day18 ( Dropout Layer 🧬  )| [Explanation Link](https://x.com/Sachintukumar/status/1765428888128344472?s=20)
+|Day19 ( Regularization  )| [Explanation Link](https://x.com/Sachintukumar/status/1765767487768150294?s=20)
