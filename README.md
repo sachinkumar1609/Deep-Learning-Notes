@@ -1,7 +1,7 @@
 # 100-Days-of-Deep-Learning
 
 
-![Deep_Learning](https://github.com/sachinkumar1609/100-Days-of-Deep-Learning/assets/103982094/d77fcec5-b371-42d6-b606-c9c7f8a12326)
+!(https://github.com/sachinkumar1609/100-Days-of-Deep-Learning/assets/103982094/d77fcec5-b371-42d6-b606-c9c7f8a12326)
 
 
 |Daywise| Blog |
