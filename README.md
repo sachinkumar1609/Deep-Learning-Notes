@@ -28,3 +28,4 @@
 |Day18 ( Dropout Layer 🧬  )| [Explanation Link](https://x.com/Sachintukumar/status/1765428888128344472?s=20)
 |Day19 ( Regularization  )| [Explanation Link](https://x.com/Sachintukumar/status/1765767487768150294?s=20)
 |Day20 ( Activation Function )| [Explanation Link](https://x.com/Sachintukumar/status/1766513253918683477?s=20)
+|Day20 ( Weight Initialization )| [Explanation Link](https://x.com/Sachintukumar/status/1767246123515969981?s=20)
