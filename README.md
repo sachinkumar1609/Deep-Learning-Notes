@@ -1,4 +1,4 @@
-# 100-Days-of-Deep-Learning
+# Deep-Learning Notes
 
 
 ![Deep_Learning](https://github.com/sachinkumar1609/100-Days-of-Deep-Learning/assets/103982094/95c96cc9-f324-4cea-93b0-fd165c1f5f83)
