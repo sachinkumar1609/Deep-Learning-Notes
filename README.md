@@ -29,8 +29,8 @@
 |Day19 ( Regularization  )| [Explanation Link](https://x.com/Sachintukumar/status/1765767487768150294?s=20)
 |Day20 ( Activation Function )| [Explanation Link](https://x.com/Sachintukumar/status/1766513253918683477?s=20)
 |Day21 ( Weight Initialization )| [Explanation Link](https://x.com/Sachintukumar/status/1767246123515969981?s=20)
-|Day22 ( Optimizer 🎚️ )| [Explanation Link](https://x.com/Sachintukumar/status/1767961775386005635?s=20)
-|Day21 ( Exponentially Weighted Moving Average EWMA )| [Explanation Link](https://x.com/Sachintukumar/status/1768682747026145650?s=20)
+|Day23 ( Optimizer 🎚️ )| [Explanation Link](https://x.com/Sachintukumar/status/1767961775386005635?s=20)
+|Day24 ( Exponentially Weighted Moving Average EWMA )| [Explanation Link](https://x.com/Sachintukumar/status/1768682747026145650?s=20)
 
 
 
