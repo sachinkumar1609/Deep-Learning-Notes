@@ -31,6 +31,6 @@
 |Day21 ( Weight Initialization )| [Explanation Link](https://x.com/Sachintukumar/status/1767246123515969981?s=20)
 |Day23 ( Optimizer 🎚️ )| [Explanation Link](https://x.com/Sachintukumar/status/1767961775386005635?s=20)
 |Day24 ( Exponentially Weighted Moving Average EWMA )| [Explanation Link](https://x.com/Sachintukumar/status/1768682747026145650?s=20)
-
+|Day25 ( Stochastic Gradient Descent (SGD) with Momentum )| [Explanation Link](https://x.com/Sachintukumar/status/1769040008529490201?s=20)
 
 
