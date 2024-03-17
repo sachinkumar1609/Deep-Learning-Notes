@@ -32,5 +32,5 @@
 |Day23 ( Optimizer 🎚️ )| [Explanation Link](https://x.com/Sachintukumar/status/1767961775386005635?s=20)
 |Day24 ( Exponentially Weighted Moving Average EWMA )| [Explanation Link](https://x.com/Sachintukumar/status/1768682747026145650?s=20)
 |Day25 ( Stochastic Gradient Descent (SGD) with Momentum )| [Explanation Link](https://x.com/Sachintukumar/status/1769040008529490201?s=20)
-
+|Day26 ( Nesterov Accelerated Gradient (NAG) Optimizer )| [Explanation Link](https://x.com/Sachintukumar/status/1769324295313109370?s=20)
 
