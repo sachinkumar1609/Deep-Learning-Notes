@@ -33,4 +33,12 @@
 |Day24 ( Exponentially Weighted Moving Average EWMA )| [Explanation Link](https://x.com/Sachintukumar/status/1768682747026145650?s=20)
 |Day25 ( Stochastic Gradient Descent (SGD) with Momentum )| [Explanation Link](https://x.com/Sachintukumar/status/1769040008529490201?s=20)
 |Day26 ( Nesterov Accelerated Gradient (NAG) Optimizer )| [Explanation Link](https://x.com/Sachintukumar/status/1769324295313109370?s=20)
+|Day27 ( AdaGrad Optimization )| [Explanation Link](https://x.com/Sachintukumar/status/1769695137934774474?s=20)
+|Day28 ( RMSProp Optimizer & Adam Optimizer )| [Explanation Link](https://x.com/Sachintukumar/status/1770144746846949665?s=20)
+|Day29 (  Keras Tuner & Hyperparameter Tuning )| [Explanation Link](https://x.com/Sachintukumar/status/1770495690256306433?s=20)
+|Day30 ( Convolutional Neural Network )| [Explanation Link](https://x.com/Sachintukumar/status/1770868261808140467?s=20)
+|Day31 ( Convolution Operation  )| [Explanation Link](https://x.com/Sachintukumar/status/1771442217015443555?s=20)
+
+
+
 
