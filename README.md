@@ -38,6 +38,12 @@
 |Day29 (  Keras Tuner & Hyperparameter Tuning )| [Explanation Link](https://x.com/Sachintukumar/status/1770495690256306433?s=20)
 |Day30 ( Convolutional Neural Network )| [Explanation Link](https://x.com/Sachintukumar/status/1770868261808140467?s=20)
 |Day31 ( Convolution Operation  )| [Explanation Link](https://x.com/Sachintukumar/status/1771442217015443555?s=20)
+|Day32 ( Padding & Strides  )| [Explanation Link](https://x.com/Sachintukumar/status/1771806525448708534?s=20)
+|Day33 ( Pooling Layer  )| [Explanation Link](https://x.com/Sachintukumar/status/1772270086495092896?s=20)
+|Day34 ( CNN Architecture & CNN vs ANN  )| [Explanation Link](https://x.com/Sachintukumar/status/1772657013597651050?s=20)
+|Day35 ( Backpropagation in CNN  )| [Explanation Link](https://x.com/Sachintukumar/status/1773038218625077372?s=20)
+|Day36 ( Data Augmentation  )| [Explanation Link](https://x.com/Sachintukumar/status/1773962109958705224?s=20)
+
 
 
 
