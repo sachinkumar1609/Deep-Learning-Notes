@@ -43,7 +43,7 @@
 |Day34 ( CNN Architecture & CNN vs ANN  )| [Explanation Link](https://x.com/Sachintukumar/status/1772657013597651050?s=20)
 |Day35 ( Backpropagation in CNN  )| [Explanation Link](https://x.com/Sachintukumar/status/1773038218625077372?s=20)
 |Day36 ( Data Augmentation  )| [Explanation Link](https://x.com/Sachintukumar/status/1773962109958705224?s=20)
-
+|Day37 ( Pre-trained Model in CNN )| [Explanation Link](https://x.com/Sachintukumar/status/1807015338912973077)
 
 
 
