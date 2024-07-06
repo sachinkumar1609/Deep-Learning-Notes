@@ -46,5 +46,5 @@
 |Day37 ( Pre-trained Model in CNN )| [Explanation Link](https://x.com/Sachintukumar/status/1807015338912973077)
 |Day38 ( Visualize Filters and Feature Maps in CNN )| [Explanation Link](https://x.com/Sachintukumar/status/1807445892003209444)
 |Day39 ( Transfer Learning )| [Explanation Link](https://x.com/Sachintukumar/status/1808932587399684147)
-
+|Day 40 ( Keras Functional Model )| [Explanation Link](https://x.com/Sachintukumar/status/1809571942548013517)
 
