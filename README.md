@@ -45,6 +45,6 @@
 |Day36 ( Data Augmentation  )| [Explanation Link](https://x.com/Sachintukumar/status/1773962109958705224?s=20)
 |Day37 ( Pre-trained Model in CNN )| [Explanation Link](https://x.com/Sachintukumar/status/1807015338912973077)
 |Day38 ( Visualize Filters and Feature Maps in CNN )| [Explanation Link](https://x.com/Sachintukumar/status/1807445892003209444)
-
+|Day38 ( Transfer Learning )| [Explanation Link](https://x.com/Sachintukumar/status/1808932587399684147)
 
 
