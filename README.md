@@ -50,3 +50,4 @@
 |Day 41 ( Recurrent Neural Network (RNN) )| [Explanation Link](https://x.com/Sachintukumar/status/1810370725561381177)
 |Day 42 ( RNN Architecture & Forward Propagation )| [Explanation Link](https://x.com/Sachintukumar/status/1813253041262620897)
 |Day 43 ( Backpropagation in RNN & Problems with RNN )| [Explanation Link](https://x.com/Sachintukumar/status/1815008274757931218)
+|Day 44 ( Understanding LSTM Networks )| [Explanation Link](https://x.com/Sachintukumar/status/1824084455293902897)
