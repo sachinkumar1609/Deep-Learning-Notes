@@ -54,3 +54,4 @@
 |Day 45 ( Gated Recurrent Unit (GRU) )| [Explanation Link](https://x.com/Sachintukumar/status/1833162505142595626)
 |Day 46 ( Deep Recurrent Neural Network (Deep RNN) )| [Explanation Link](https://x.com/Sachintukumar/status/1837498983922475362)
 |Day 47 ( BiDirectional RNN (Bi-RNNs)) | [Explanation Link](https://x.com/Sachintukumar/status/1839639446771105890)
+|Day 48 ( The Epic History of #LLMs : Journey from RNNs to ChatGPT )) | [Explanation Link](https://x.com/Sachintukumar/status/1840398980053651822)
