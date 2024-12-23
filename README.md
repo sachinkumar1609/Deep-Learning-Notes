@@ -55,4 +55,4 @@
 |Day 46 ( Deep Recurrent Neural Network (Deep RNN) )| [Explanation Link](https://x.com/Sachintukumar/status/1837498983922475362)
 |Day 47 ( BiDirectional RNN (Bi-RNNs)) | [Explanation Link](https://x.com/Sachintukumar/status/1839639446771105890)
 |Day 48 ( The Epic History of #LLMs : Journey from RNNs to ChatGPT )) | [Explanation Link](https://x.com/Sachintukumar/status/1840398980053651822)
-|Day 49 ( Encoder Decoder || Sequence-to-Sequence Architecture )) | [Explanation Link](https://x.com/Sachintukumar/status/1871166199335383155)
+|Day 49 ( Encoder Decoder & Sequence-to-Sequence Architecture )) | [Explanation Link](https://x.com/Sachintukumar/status/1871166199335383155)
